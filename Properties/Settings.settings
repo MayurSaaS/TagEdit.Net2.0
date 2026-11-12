@@ -1,0 +1,112 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TagEdit.Net.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MachineName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ESP OPUS 2.0</Value>
+    </Setting>
+    <Setting Name="StateCode" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;HR&lt;/string&gt;
+  &lt;string&gt;DL&lt;/string&gt;
+  &lt;string&gt;UT&lt;/string&gt;
+  &lt;string&gt;AS&lt;/string&gt;
+  &lt;string&gt;WB&lt;/string&gt;
+  &lt;string&gt;PB&lt;/string&gt;
+  &lt;string&gt;CH&lt;/string&gt;
+  &lt;string&gt;UP&lt;/string&gt;
+  &lt;string&gt;GJ&lt;/string&gt;
+  &lt;string&gt;MH&lt;/string&gt;
+  &lt;string&gt;KA&lt;/string&gt;
+  &lt;string&gt;OD&lt;/string&gt;
+  &lt;string&gt;TN&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="VehCatCode" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;NA&lt;/string&gt;
+  &lt;string&gt;LMV&lt;/string&gt;
+  &lt;string&gt;LGV&lt;/string&gt;
+  &lt;string&gt;HGV&lt;/string&gt;
+  &lt;string&gt;EV&lt;/string&gt;
+  &lt;string&gt;HYBRID&lt;/string&gt;
+  &lt;string&gt;OTHERS&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="VehTypeCode" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;NA&lt;/string&gt;
+  &lt;string&gt;TAXI&lt;/string&gt;
+  &lt;string&gt;BUS&lt;/string&gt;
+  &lt;string&gt;TRUCK&lt;/string&gt;
+  &lt;string&gt;AUTO&lt;/string&gt;
+  &lt;string&gt;2-WHEELER&lt;/string&gt;
+  &lt;string&gt;3-WHEELER&lt;/string&gt;
+  &lt;string&gt;MINI TRUCK&lt;/string&gt;
+  &lt;string&gt;AMBULANCE&lt;/string&gt;
+  &lt;string&gt;CV&lt;/string&gt;
+  &lt;string&gt;CRANE&lt;/string&gt;
+  &lt;string&gt;SUV&lt;/string&gt;
+  &lt;string&gt;HATCHBACK&lt;/string&gt;
+  &lt;string&gt;SEDAN&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="VehPlateCode" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;NA&lt;/string&gt;
+  &lt;string&gt;CV&lt;/string&gt;
+  &lt;string&gt;NCV&lt;/string&gt;
+  &lt;string&gt;GREEN&lt;/string&gt;
+  &lt;string&gt;RED&lt;/string&gt;
+  &lt;string&gt;BLUE&lt;/string&gt;
+  &lt;string&gt;OTHER&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="VehMfgCode" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;string&gt;NA&lt;/string&gt;
+  &lt;string&gt;Maruti-Suzuki&lt;/string&gt;
+  &lt;string&gt;Hyundai&lt;/string&gt;
+  &lt;string&gt;Tata&lt;/string&gt;
+  &lt;string&gt;Toyota&lt;/string&gt;
+  &lt;string&gt;Kia&lt;/string&gt;
+  &lt;string&gt;Ashok Leyland Ltd&lt;/string&gt;
+  &lt;string&gt;Mercedes-Benz&lt;/string&gt;
+  &lt;string&gt;Porsche&lt;/string&gt;
+  &lt;string&gt;SML Isuzu&lt;/string&gt;
+  &lt;string&gt;BMW&lt;/string&gt;
+  &lt;string&gt;Tesla&lt;/string&gt;
+  &lt;string&gt;Mahindra&lt;/string&gt;
+  &lt;string&gt;Honda&lt;/string&gt;
+  &lt;string&gt;Ford&lt;/string&gt;
+  &lt;string&gt;Force&lt;/string&gt;
+  &lt;string&gt;Eicher&lt;/string&gt;
+  &lt;string&gt;Audi&lt;/string&gt;
+  &lt;string&gt;Lexus&lt;/string&gt;
+  &lt;string&gt;Volkswagen&lt;/string&gt;
+  &lt;string&gt;Nissan&lt;/string&gt;
+  &lt;string&gt;Renault&lt;/string&gt;
+  &lt;string&gt;Fiat&lt;/string&gt;
+  &lt;string&gt;MAN&lt;/string&gt;
+  &lt;string&gt;Citroen&lt;/string&gt;
+  &lt;string&gt;Piaggio&lt;/string&gt;
+  &lt;string&gt;MG Hector&lt;/string&gt;
+  &lt;string&gt;Skoda&lt;/string&gt;
+  &lt;string&gt;TVS Motor&lt;/string&gt;
+  &lt;string&gt;VE Commercial Vehicles Ltd&lt;/string&gt;
+  &lt;string&gt;Volvo&lt;/string&gt;
+  &lt;string&gt;Jeep&lt;/string&gt;
+  &lt;string&gt;Jaguar&lt;/string&gt;
+  &lt;string&gt;Hero&lt;/string&gt;
+  &lt;string&gt;Bajaj&lt;/string&gt;
+  &lt;string&gt;General Motors&lt;/string&gt;
+  &lt;string&gt;Others&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

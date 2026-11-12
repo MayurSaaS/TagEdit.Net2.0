@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TagEdit.Net": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

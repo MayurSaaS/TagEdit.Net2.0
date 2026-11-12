@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TagEdit.Net", "TagEdit.Net.csproj", "{6650F504-6D17-4447-86AB-A87DA061F28B}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "TagEdit.Net Setup", "..\TagEdit.Net Setup\TagEdit.Net Setup.aiproj", "{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		All|x86 = All|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.All|Any CPU.Build.0 = Release|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.All|x86.ActiveCfg = Debug|x86
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.All|x86.Build.0 = Debug|x86
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Debug|x86.ActiveCfg = Debug|x86
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Debug|x86.Build.0 = Debug|x86
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Release|x86.ActiveCfg = Release|x86
+		{6650F504-6D17-4447-86AB-A87DA061F28B}.Release|x86.Build.0 = Release|x86
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.All|Any CPU.ActiveCfg = DefaultBuild
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.All|x86.ActiveCfg = DefaultBuild
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.Debug|x86.ActiveCfg = DefaultBuild
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{9C21A2A1-3D72-42AE-8A7D-D4B0EDF431C9}.Release|x86.ActiveCfg = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5115CA4E-768B-4BC7-926D-2CD2273C7AB0}
+	EndGlobalSection
+EndGlobal
